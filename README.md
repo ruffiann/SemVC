@@ -1,2 +1,2 @@
 # Semantic-Video-Composition
-TRAINING-FREE SEMANTIC VIDEO COMPOSITION VIA PRE-TRAINED DIFFUSION MODEL
+Training-Free Semantic Video Composition \\via Pre-trained Diffusion Model
