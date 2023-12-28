@@ -14,13 +14,18 @@ The video composition task aims to integrate specified foregrounds and backgroun
     <th>Ours</th>
   </tr>
   <tr>
-    <td><img src="ori_bear_autumn.gif" alt="First GIF" style="width:100%"></td>
-    <td><img src="tficon_bear_autumn.gif" alt="Second GIF" style="width:100%"></td>
-    <td><img src="ours_bear_autumn.gif" alt="Third GIF" style="width:100%"></td>
+    <td><img src="/cases/ori_bear_autumn.gif" alt="First GIF" style="width:100%"></td>
+    <td><img src="/cases/tficon_bear_autumn.gif" alt="Second GIF" style="width:100%"></td>
+    <td><img src="/cases/ours_bear_autumn.gif" alt="Third GIF" style="width:100%"></td>
   </tr>
   <tr>
-    <td><img src="ori_bear_autumn.gif" alt="First GIF" style="width:100%"></td>
-    <td><img src="tficon_bear_autumn.gif" alt="Second GIF" style="width:100%"></td>
-    <td><img src="ours_bear_autumn.gif" alt="Third GIF" style="width:100%"></td>
+    <td><img src="/cases/ori_balckswan_willow.gif" alt="First GIF" style="width:100%"></td>
+    <td><img src="/cases/tficon_balckswan_willow.gif" alt="Second GIF" style="width:100%"></td>
+    <td><img src="/cases/ours_balckswan_willow.gif" alt="Third GIF" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td><img src="/cases/ori_camel_desert.gif" alt="First GIF" style="width:100%"></td>
+    <td><img src="/cases/tficon_camel_desert.gif" alt="Second GIF" style="width:100%"></td>
+    <td><img src="/cases/ours_camel_desert.gif" alt="Third GIF" style="width:100%"></td>
   </tr>
 </table>
