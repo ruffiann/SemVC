@@ -5,7 +5,7 @@ Training-Free Semantic Video Composition via Pre-trained Diffusion Model
 
 The video composition task aims to integrate specified foregrounds and backgrounds from different videos into a harmonious composite. Current approaches, predominantly trained on videos with adjusted foreground color and lighting, struggle to address deep semantic disparities beyond superficial adjustments, such as domain gaps. Therefore, we propose a training-free pipeline employing a pre-trained diffusion model imbued with semantic prior knowledge, which can process composite videos with broader semantic disparities.
 
-## 🎞🎞More cases
+## 🔆Comparison
 
 <table>
   <tr>
@@ -34,3 +34,6 @@ The video composition task aims to integrate specified foregrounds and backgroun
     <td><img src="/cases/ours_car_street.gif" alt="ours_car_street.gif" style="width:100%"></td>
   </tr>
 </table>
+
+## 🎞More Cases
+![morecases.png](/cases/morecases.png)
