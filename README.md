@@ -1,4 +1,4 @@
-# Semantic-Video-Composition
+# Semantic Video Composition via Pre-trained Diffusion Model
 
 [![report](https://img.shields.io/badge/arxiv-report-red)](https://arxiv.org/abs/2401.09195)
 
