@@ -2,7 +2,7 @@
 
 [![report](https://img.shields.io/badge/arxiv-report-red)](https://arxiv.org/abs/2401.09195)
 
-This repository is a brief introduction and case study of the paper "Training-Free Semantic Video Composition via Pre-trained Diffusion Model" in ICME 2024 (Oral).
+This repository is a brief introduction and case study of the paper "Training-Free Semantic Video Composition via Pre-trained Diffusion Model" in ICME 2024 **(Oral)**.
 
 ## 😁Introduction
 
